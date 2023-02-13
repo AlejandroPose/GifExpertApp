@@ -11,5 +11,6 @@ export const getGifs = async ( category ) => {
             }
         )
     } );
+    console.log(resp);
     return gifs;
 };
