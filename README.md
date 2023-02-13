@@ -1,3 +1,15 @@
+# Styles with SASS
+
+We use SASS for practice scss language.
+
+## Install SASS command
+
+npm install -g sass
+
+### Convert SCSS code to CSS code
+
+sass --watch ./src/styles/scss/styles.scss ./src/styles/css/styles.css
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
