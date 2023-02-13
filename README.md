@@ -1,3 +1,11 @@
+# GitHub Pages to desploy the app
+
+We need to install the dependencies to desploy the app in GitHub.
+
+## Install gh-pages command
+
+npm install gh-pages --save-dev
+
 # Styles with SASS
 
 We use SASS for practice scss language.
