@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GifExpertApp-React/static/css/main.c19d44c6.css",
-    "main.js": "/GifExpertApp-React/static/js/main.b0456a5e.js",
-    "static/js/787.14eacf6e.chunk.js": "/GifExpertApp-React/static/js/787.14eacf6e.chunk.js",
-    "index.html": "/GifExpertApp-React/index.html",
-    "main.c19d44c6.css.map": "/GifExpertApp-React/static/css/main.c19d44c6.css.map",
-    "main.b0456a5e.js.map": "/GifExpertApp-React/static/js/main.b0456a5e.js.map",
-    "787.14eacf6e.chunk.js.map": "/GifExpertApp-React/static/js/787.14eacf6e.chunk.js.map"
+    "main.css": "/GifExpertApp/static/css/main.c19d44c6.css",
+    "main.js": "/GifExpertApp/static/js/main.b8c70285.js",
+    "static/js/787.14eacf6e.chunk.js": "/GifExpertApp/static/js/787.14eacf6e.chunk.js",
+    "index.html": "/GifExpertApp/index.html",
+    "main.c19d44c6.css.map": "/GifExpertApp/static/css/main.c19d44c6.css.map",
+    "main.b8c70285.js.map": "/GifExpertApp/static/js/main.b8c70285.js.map",
+    "787.14eacf6e.chunk.js.map": "/GifExpertApp/static/js/787.14eacf6e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c19d44c6.css",
-    "static/js/main.b0456a5e.js"
+    "static/js/main.b8c70285.js"
   ]
 }
